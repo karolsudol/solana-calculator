@@ -13,3 +13,10 @@ solana logs | grep "{PROGRAM_ID} invoke" -A 10
 npm run example
 
 ```
+
+<br/>
+<p align="center">
+<img src="img/a.png">
+</a>
+</p>
+<br/>
