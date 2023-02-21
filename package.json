@@ -15,7 +15,7 @@
     "example": "ts-node ./src/client/calculator.ts"
   },
   "dependencies": {
-    "@solana/buffer-layout": "^4.0.0",
+    "@solana/buffer-layout": "^4.0.1",
     "@solana/web3.js": "^1.33.0",
     "borsh": "^0.7.0",
     "buffer": "^6.0.3",
